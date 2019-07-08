@@ -1,5 +1,7 @@
 h1 {
-
+    font-size: 24px;
+    color: maroon;
+    text-emphasis: em;
 }
 
 h3 {
@@ -11,5 +13,5 @@ header {
 }
 
 h2 {
-    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', "Arial";
 }
